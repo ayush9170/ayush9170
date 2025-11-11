@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a B.Tech final-year student at NIT Durgapur, passionate about coding and development, eager to learn new technologies, and want to step into the tech industry.
 
 
